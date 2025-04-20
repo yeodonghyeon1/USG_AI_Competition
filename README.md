@@ -4,6 +4,9 @@
 
 ## 프로젝트 개요
 
+![spc_00064](https://github.com/user-attachments/assets/f4b4a4fd-a8f7-44c7-8476-61b27c529cab)
+![Uploading KakaoTalk_20231112_184826407_01.jpg…]()
+
 ### 초급 부문
 - PCB 기판 이미지에서 불량 검출을 수행하는 이진 분류 모델
 - CNN 기반의 딥러닝 모델을 사용하여 정상/불량 분류
