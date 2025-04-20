@@ -2,11 +2,10 @@
 
 본 저장소는 USG AI 경진대회의 제조혁신 부문 참가 프로젝트를 담고 있습니다.
 
+<img src="https://github.com/user-attachments/assets/f4b4a4fd-a8f7-44c7-8476-61b27c529cab"  width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/bf43a613-2dea-4fca-a09e-ff3e1e1c3f4a"  width="400" height="400"/>
+
 ## 프로젝트 개요
-
-![spc_00064](https://github.com/user-attachments/assets/f4b4a4fd-a8f7-44c7-8476-61b27c529cab)
-![KakaoTalk_20231112_184826407_01](https://github.com/user-attachments/assets/bf43a613-2dea-4fca-a09e-ff3e1e1c3f4a)
-
 
 ### 초급 부문
 - PCB 기판 이미지에서 불량 검출을 수행하는 이진 분류 모델
