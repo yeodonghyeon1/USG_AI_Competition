@@ -5,7 +5,8 @@
 ## 프로젝트 개요
 
 ![spc_00064](https://github.com/user-attachments/assets/f4b4a4fd-a8f7-44c7-8476-61b27c529cab)
-![Uploading KakaoTalk_20231112_184826407_01.jpg…]()
+![KakaoTalk_20231112_184826407_01](https://github.com/user-attachments/assets/bf43a613-2dea-4fca-a09e-ff3e1e1c3f4a)
+
 
 ### 초급 부문
 - PCB 기판 이미지에서 불량 검출을 수행하는 이진 분류 모델
